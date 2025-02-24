@@ -32,7 +32,7 @@ body {
 
 .card-title {
   position: absolute;
-  color: white;
+  color: gray;
   font-size: 32px;
   top: 24px;
   left: 24px;
